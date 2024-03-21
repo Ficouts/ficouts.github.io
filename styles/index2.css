@@ -1,0 +1,118 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron&display=swap');
+@media screen and (max-width: 1024px) {
+    .ltp-logo {
+        display: none !important;
+    }
+    .website-info {
+        font-size: 12px;
+        text-align: center;
+    }
+    .bio {
+        font-size: 12px;
+        text-align: center;
+    }
+    .whoami {
+        display: none !important;
+    }
+    .specs-table {
+        display: none !important;
+    }
+    .whoami-header {
+        font-size: 15px;
+    }
+    .specs {
+        display: none !important;
+    }
+    .ghprojhead {
+        font-size: 15px;
+    }
+    header > img {
+        float: center;
+    }
+  }
+
+header {
+    width: 100%;
+    height: 45px;
+    position: fixed;        
+    background: maroon;
+    padding: 0px 0;
+    color: #fff;
+    top: 0;
+    left: 0;
+}
+
+body {
+    background: #222222;
+    padding-top: 45px;
+    color: #ffffff;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    width: 100%;
+    float: center;
+}
+
+header > a > img {
+    width: 35px;
+    float: right;
+    padding: 3px 2px;
+}
+
+.ltp-logo {
+    width: 400px;
+    float: right;
+}
+
+.whoami-header {
+    text-align: center;
+}
+
+.whoami {
+    width: 400px;
+    float: right;
+}
+
+table {
+    width: 99%;
+}
+
+.specs {
+    text-align: center;
+}
+
+.specs-table {
+    width: 50%;
+    float: center;
+    text-align: center;
+    margin-left: auto;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-right: auto;
+    border: 1px solid #ffffff;
+    border-collapse: separate;
+    *border-collapse: collapse;
+    border-left: 0;
+    border-spacing: 0;
+    -webkit-border-radius: none;
+    -moz-border-radius: none;
+    border-radius: none;
+    border-left: 1px solid #ffffff;
+}
+
+.ghprojhead {
+    text-align: center;
+}
+
+.ghprojects {
+    width: 50%;
+    float: center;
+    text-align: center;
+    margin-left: auto;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-right: auto;
+}
+
+.welcomeheader {
+    width: 140px;
+    float: left;
+}
