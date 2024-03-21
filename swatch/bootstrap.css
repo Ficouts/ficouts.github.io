@@ -2017,7 +2017,7 @@ table {
 .table td {
   padding: 8px;
   line-height: 20px;
-  color: #000000;
+  color: #FFFFFF;
   text-align: left;
   vertical-align: top;
   border-top: 1px solid #19D9FF;
@@ -2148,7 +2148,7 @@ table {
 
 .table-striped tbody > tr:nth-child(odd) > td,
 .table-striped tbody > tr:nth-child(odd) > th {
-  background-color: rgba(255,63,25,0.75);
+  background-color: rgba(0,0,0,0.75);
 }
 
 .table-hover tbody tr:hover > td,
