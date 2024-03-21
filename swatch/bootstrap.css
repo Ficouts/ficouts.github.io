@@ -233,7 +233,7 @@ body {
 }
 
 marquee {
-  color:rgb(255, 40, 40)
+  color:rgb(255, 255, 255)
 }
 
 a {
@@ -656,7 +656,7 @@ a:focus {
 
 p {
   margin: 0 0 10px;
-  color: #ee2e2e;
+  color: #FFFFFF;
 }
 
 .lead {
@@ -4613,7 +4613,7 @@ input[type="submit"].btn.btn-mini {
 .navbar .nav > li > a {
   float: none;
   padding: 10px 15px 10px;
-  color: #00ff00;
+  color: #FFFFFF;
   text-decoration: none;
   text-shadow: 0 1px 0 #000000;
 }
@@ -6167,7 +6167,7 @@ a.badge:focus {
 }
 
 h1 {
-  color: rgb(0,0,255);
+  color: rgb(255,255,255);
 }
 
 h2 {
